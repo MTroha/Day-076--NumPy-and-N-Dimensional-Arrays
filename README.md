@@ -14,6 +14,6 @@ Numpy (np):
 - make array shapes compatible (NumPy broadcasting)
 
 Matplotlib:
-- .imshow() --> show the image with Matplotlib module (*)
-( * image can be in image format (.jpg, ...) or in RGB pixels (array)
+- .imshow() --> show the image with Matplotlib module 
+(image can be in image format (.jpg, ...) or in RGB pixels (array)
 - .show()
